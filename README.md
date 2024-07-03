@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Sou uma pessoa desenvolvendo o Full-Stack, aqui vocês irão poder conferir meus principais projetos prontos ou em andamento. Fique a vontade para testar, comentar e oferecer revisão de código. :)</h3>
+<h3 align="center">Sou um desenvolvedor Full-Stack, aqui você pode conferir meus principais projetos em adamento. Fique a vontade para testar, comentar e se preferir fazer um code review. :)</h3>
 
 ###
 
