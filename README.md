@@ -34,13 +34,13 @@
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
     alt="react logo"
   />
- 
-  <img
+
+<img
     src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
     alt="redux logo"
   />
-  
-  <img
+
+<img
     src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
     alt="next logo"
   />
@@ -72,7 +72,7 @@
 
 ###
 
-<h2 aliagn="center">⚙️ Back-End ⚙️</h2>
+<h2 align="center">⚙️ Back-End ⚙️</h2>
 
 ###
 
